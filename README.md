@@ -10,11 +10,11 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 ### 01. Python for Machine Learning
 - [x] Python fundamentals
 - [x] Variables and data types
-- [x] Conditional statements
-- [x] Loops
-- [x] Functions
-- [x] List / Dictionary / Set / Tuple
-- [x] List & dictionary comprehensions
+- [ ] Conditional statements
+- [ ] Loops
+- [ ] Functions
+- [ ] List / Dictionary / Set / Tuple
+- [ ] List & dictionary comprehensions
 - [ ] Lambda functions
 - [ ] `*args` and `**kwargs`
 - [ ] Object-Oriented Programming
@@ -28,11 +28,11 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 ---
 
 ### 02. NumPy
-- [x] NumPy arrays
-- [x] Array dimensions
-- [x] Shape and size
-- [x] Indexing and slicing
-- [x] Reshaping
+- [ ] NumPy arrays
+- [ ] Array dimensions
+- [ ] Shape and size
+- [ ] Indexing and slicing
+- [ ] Reshaping
 - [ ] Broadcasting
 - [ ] Vectorization
 - [ ] Mathematical operations
@@ -46,13 +46,13 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 ---
 
 ### 03. Pandas
-- [x] Series
-- [x] DataFrames
-- [x] Reading CSV files
-- [x] Reading JSON files
-- [x] Selecting rows and columns
-- [x] Filtering data
-- [x] Sorting data
+- [ ] Series
+- [ ] DataFrames
+- [ ] Reading CSV files
+- [ ] Reading JSON files
+- [ ] Selecting rows and columns
+- [ ] Filtering data
+- [ ] Sorting data
 - [ ] Handling missing values
 - [ ] Handling duplicates
 - [ ] GroupBy
