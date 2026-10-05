@@ -2,6 +2,7 @@
 x = 10 # Integer
 y = 10.5 # Float
 z = 12j # Complex
+isCompleted = True
 
 w = z
 
