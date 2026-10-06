@@ -3,7 +3,7 @@ x = 10
 y = 5.5
 
 print("*" * 50)
-print("Assignment Operator")
+print("Arthemetic Operator")
 print("*" * 50)
 
 # Arthemetic Operator
