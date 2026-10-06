@@ -10,7 +10,7 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 ### 01. Python for Machine Learning
 - [x] Python fundamentals
 - [x] Variables and data types
-- [ ] Conditional statements
+- [x] Conditional statements
 - [ ] Loops
 - [ ] Functions
 - [ ] List / Dictionary / Set / Tuple
@@ -28,10 +28,10 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 ---
 
 ### 02. NumPy
-- [ ] NumPy arrays
-- [ ] Array dimensions
-- [ ] Shape and size
-- [ ] Indexing and slicing
+- [x] NumPy arrays
+- [x] Array dimensions
+- [x] Shape and size
+- [x] Indexing and slicing
 - [ ] Reshaping
 - [ ] Broadcasting
 - [ ] Vectorization
