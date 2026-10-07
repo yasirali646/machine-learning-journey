@@ -35,8 +35,8 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 - [x] Reshaping
 - [ ] Broadcasting
 - [ ] Vectorization
-- [ ] Mathematical operations
-- [ ] Statistical operations
+- [x] Mathematical operations
+- [x] Statistical operations
 - [ ] Random numbers
 - [ ] Matrix operations
 - [ ] Dot product
