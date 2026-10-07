@@ -32,7 +32,7 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 - [x] Array dimensions
 - [x] Shape and size
 - [x] Indexing and slicing
-- [ ] Reshaping
+- [x] Reshaping
 - [ ] Broadcasting
 - [ ] Vectorization
 - [ ] Mathematical operations
