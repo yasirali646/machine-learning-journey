@@ -33,8 +33,8 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 - [x] Shape and size
 - [x] Indexing and slicing
 - [x] Reshaping
-- [ ] Broadcasting
-- [ ] Vectorization
+- [x] Broadcasting
+- [x] Vectorization
 - [x] Mathematical operations
 - [x] Statistical operations
 - [ ] Random numbers
