@@ -37,11 +37,11 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 - [x] Vectorization
 - [x] Mathematical operations
 - [x] Statistical operations
-- [ ] Random numbers
-- [ ] Matrix operations
-- [ ] Dot product
-- [ ] Matrix multiplication
-- [ ] Linear algebra with NumPy
+- [x] Random numbers
+- [x] Matrix operations
+- [x] Dot product
+- [x] Matrix multiplication
+- [x] Linear algebra with NumPy
 
 ---
 
