@@ -46,11 +46,11 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 ---
 
 ### 03. Pandas
-- [ ] Series
-- [ ] DataFrames
-- [ ] Reading CSV files
-- [ ] Reading JSON files
-- [ ] Selecting rows and columns
+- [x] Series
+- [x] DataFrames
+- [x] Reading CSV files
+- [x] Reading JSON files
+- [x] Selecting rows and columns
 - [ ] Filtering data
 - [ ] Sorting data
 - [ ] Handling missing values
