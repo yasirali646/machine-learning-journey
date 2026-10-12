@@ -51,10 +51,10 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 - [x] Reading CSV files
 - [x] Reading JSON files
 - [x] Selecting rows and columns
-- [ ] Filtering data
-- [ ] Sorting data
-- [ ] Handling missing values
-- [ ] Handling duplicates
+- [x] Filtering data
+- [x] Sorting data
+- [x] Handling missing values
+- [x] Handling duplicates
 - [ ] GroupBy
 - [ ] Aggregation
 - [ ] Merge
