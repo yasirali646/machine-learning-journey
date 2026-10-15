@@ -55,28 +55,30 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 - [x] Sorting data
 - [x] Handling missing values
 - [x] Handling duplicates
-- [ ] GroupBy
-- [ ] Aggregation
-- [ ] Merge
-- [ ] Join
-- [ ] Concatenation
-- [ ] Apply / Map
-- [ ] Date & time data
-- [ ] Data cleaning
+- [x] GroupBy
+- [x] Aggregation
+- [x] Merge
+- [x] Join
+- [x] Concatenation
+- [x] Apply / Map
+- [x] Date & time data
+- [x] Data cleaning
 
 ---
 
 ### 04. Data Visualization
-- [ ] Matplotlib
-- [ ] Line plots
-- [ ] Bar charts
-- [ ] Histograms
-- [ ] Scatter plots
-- [ ] Box plots
-- [ ] Heatmaps
-- [ ] Correlation visualization
-- [ ] Seaborn
-- [ ] Exploratory Data Analysis (EDA)
+- [ ] Matplotlib basics
+- [ ] Matplotlib subplots & styling
+- [ ] Seaborn distribution plots
+- [ ] Seaborn relationship & categorical plots
+- [ ] Heatmaps & correlation matrices
+- [ ] Plotly interactive charts
+- [ ] EDA workflow
+- [ ] Outlier & missing-data visualization
+- [ ] Model evaluation plots (ROC, PR, confusion matrix)
+- [ ] Learning curves & feature importance plots
+- [ ] PCA / t-SNE / UMAP visualization
+- [ ] Streamlit dashboard
 
 ---
 
@@ -539,6 +541,8 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 # 📈 Overall Progress
 
 **Foundations:** 0%
+
+**Data Visualization:** 0%
 
 **Mathematics:** 0%
 
