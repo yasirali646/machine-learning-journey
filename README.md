@@ -67,10 +67,10 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 ---
 
 ### 04. Data Visualization
-- [ ] Matplotlib basics
-- [ ] Matplotlib subplots & styling
-- [ ] Seaborn distribution plots
-- [ ] Seaborn relationship & categorical plots
+- [x] Matplotlib basics
+- [x] Matplotlib subplots & styling
+- [x] Seaborn distribution plots
+- [x] Seaborn relationship & categorical plots
 - [ ] Heatmaps & correlation matrices
 - [ ] Plotly interactive charts
 - [ ] EDA workflow
