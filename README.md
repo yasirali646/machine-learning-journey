@@ -71,8 +71,8 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 - [x] Matplotlib subplots & styling
 - [x] Seaborn distribution plots
 - [x] Seaborn relationship & categorical plots
-- [ ] Heatmaps & correlation matrices
-- [ ] Plotly interactive charts
+- [x] Heatmaps & correlation matrices
+- [x] Plotly interactive charts
 - [ ] EDA workflow
 - [ ] Outlier & missing-data visualization
 - [ ] Model evaluation plots (ROC, PR, confusion matrix)
