@@ -73,7 +73,7 @@ Machine Learning, Deep Learning, NLP, Transformers, and MLOps.
 - [x] Seaborn relationship & categorical plots
 - [x] Heatmaps & correlation matrices
 - [x] Plotly interactive charts
-- [ ] EDA workflow
+- [x] EDA workflow
 - [ ] Outlier & missing-data visualization
 - [ ] Model evaluation plots (ROC, PR, confusion matrix)
 - [ ] Learning curves & feature importance plots
